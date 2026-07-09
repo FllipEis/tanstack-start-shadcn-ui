@@ -1,5 +1,6 @@
 {
   "lockfileVersion": 1,
+  "configVersion": 0,
   "workspaces": {
     "": {
       "name": "pastes",
@@ -26,7 +27,7 @@
         "vite-tsconfig-paths": "^5.1.4",
       },
       "peerDependencies": {
-        "typescript": "^5.8.3",
+        "typescript": "^5.8.3 || ^7.0.0",
       },
     },
   },
